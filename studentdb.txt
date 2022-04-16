@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Gender>true</Gender>
+    <Address>sdcf</Address>
+    <Image>C:\Users\faiqa\Pictures\Screenshots\Screenshot (1).png</Image>
+    <Phone_Number>1234567</Phone_Number>
+    <DOB>2022-03-06T00:00:00+05:00</DOB>
+    <Email>sz</Email>
+    <Name>we</Name>
+    <ID>1</ID>
+  </Student>
+  <Student>
+    <Gender>false</Gender>
+    <Address>wdscx</Address>
+    <Image>C:\Users\faiqa\Pictures\Screenshots\Screenshot (5).png</Image>
+    <Phone_Number>rfc</Phone_Number>
+    <DOB>2022-03-06T00:00:00+05:00</DOB>
+    <Email>sdf</Email>
+    <Name>ffd</Name>
+    <ID>2</ID>
+  </Student>
+</ArrayOfStudent>
